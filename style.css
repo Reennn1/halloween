@@ -1,5 +1,5 @@
 body {
-  background: #48befe;
+  background: #f19cbb;
   font-family: "Josefin Sans", sans-serif;
   font-size: 12px;
 }
@@ -128,7 +128,7 @@ ul li {
   background: #fdfeff;
 }
 .egg li:nth-child(even) {
-  background: #48befe;
+  background: #f19cbb;
 }
 .egg li:nth-child(1) {
   width: 30px;
@@ -278,7 +278,7 @@ ul li {
   z-index: -1;
 }
 .ghost li:nth-child(even) {
-  background: #48befe;
+  background: #f19cbb;
   width: 7px;
   top: 215px;
 }
